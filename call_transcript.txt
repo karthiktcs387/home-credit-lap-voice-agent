@@ -1,0 +1,17 @@
+agent: Hello, may I speak with {{customer_name}}?
+user: Yeah. Kartik. 
+agent: Thank you for your time. I'm Priya, calling from Home Credit. We have a Loan Against Property offer up to 75 lakhs. May I ask a few questions to check your preliminary eligibility?
+user: Yeah. Tell me. 
+agent: Is the property residential, commercial, or industrial?
+user: Property. 
+agent: Is it a residential, commercial, or industrial property?
+user: I'd say commercial property. 
+agent: Is the property solely owned by you or 
+user: Sold 
+agent: jointly owned?
+user: by me only. 
+agent: Are the original property documents available for verification?
+user: Yeah. It probably is unavailable, but I want to come tomorrow or two days, I want. 
+agent: Original documents are required for this offer. Once 
+user: Okay. 
+agent: they're available, you can contact us again. Thank you for your time.

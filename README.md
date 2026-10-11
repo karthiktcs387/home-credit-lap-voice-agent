@@ -196,6 +196,8 @@ Its responsibilities include:
 - Communicating the preliminary outcome without promising loan approval.
 
 Call recordings and transcripts are maintained for testing and evaluation.
+## Live Link
+https://agent.retellai.com/orb/agent_4f7ed48590fd42e68d3cf566e7?token=b807896230e6bf6965e7a94951c94dc8
 
 ## Project Files
 
